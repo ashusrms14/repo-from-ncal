@@ -10,3 +10,4 @@ terraform
 aws cloud 
 shell scripting
 sab khatam tata bye  bye
+english communication also

@@ -7,4 +7,6 @@ this line is from second man ha ha ha
 linux 
 Ansible 
 terraform
-
+aws cloud 
+shell scripting
+sab khatam tata bye  bye
